@@ -8,7 +8,6 @@ public final class GlobalValues {
 	
 	//后台api接口地址
 	public static String ServiceApiUrl = "";
-
 	// SD卡中的根目录名
 	public static String ExtraFolderName = "DicCN";
 
