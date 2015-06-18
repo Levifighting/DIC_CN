@@ -12,6 +12,6 @@ public final class GlobalValues {
 	// SD卡中的根目录名
 	public static String ExtraFolderName = "DicCN";
 
-	public static String EncodingUTF8 = "UTF-8";
+	public static String EncodingUTF8 = "UTF-8";//为 什么 你提交里面没东西？
 
 }
